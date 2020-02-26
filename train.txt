@@ -1,0 +1,9 @@
+C:\Users\saikat\Desktop\darknet_opencv\data\images\1.jpg
+C:\Users\saikat\Desktop\darknet_opencv\data\images\2.jpg
+C:\Users\saikat\Desktop\darknet_opencv\data\images\3.jpg
+C:\Users\saikat\Desktop\darknet_opencv\data\images\4.jpg
+C:\Users\saikat\Desktop\darknet_opencv\data\images\5.jpg
+C:\Users\saikat\Desktop\darknet_opencv\data\images\6.jpg
+C:\Users\saikat\Desktop\darknet_opencv\data\images\7.jpg
+C:\Users\saikat\Desktop\darknet_opencv\data\images\8.jpg
+C:\Users\saikat\Desktop\darknet_opencv\data\images\9.jpg
