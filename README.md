@@ -13,13 +13,20 @@ Each traffic crossing in a city would fall on a grid, if for example we are cons
 2. The change depicts te present crowding in the particular junction.
 3. To get the location,we use Here Maps API.
 
+LOGIN PAGE:
+   ![](login.PNG)
+AT TIMEFRAME 0 SECS:
+   ![](time0.PNG)
+AT TIMEFRAME 5 SECS:
+   ![](time5.PNG)
+
 ## Technologies Used
 
-1.YOLO Ver3 for Object Detection
+1.YOLO Version3 for Object Detection
 
 2.Here Maps API
 
-3.Tkinter for UI
+3.Tkinter(Python) for UI
 
 ## Author
 [Rishav Dhar](https://github.com/iamrishav111)
