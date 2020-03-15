@@ -35,7 +35,7 @@ class Traffic(Toplevel):
         for i in range(1, 3):
             for j in range(1, 10):
                 self.initUI(i, j, (j - 1) % 3 + 1, (j - 1) // 3 + 1)
-            time.sleep(15)
+            time.sleep(5)
 
     def initUI(self,path,pic,xi,yi):
         stgImg=Image.open(str((path-1)*5)+"//"+str(pic)+".jpg")
