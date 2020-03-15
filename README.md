@@ -13,15 +13,15 @@ Each traffic crossing in a city would fall on a grid, if for example we are cons
 2. The change depicts te present crowding in the particular junction.
 3. To get the location,we use Here Maps API.
 
-LOGIN PAGE:
+# LOGIN PAGE:
    
    ![](login.png)
    
-AT TIMEFRAME 0 SECS:
+# AT TIMEFRAME 0 SECS:
 
    ![](time0.png)
    
-AT TIMEFRAME 5 SECS:
+# AT TIMEFRAME 5 SECS:
 
    ![](time5.png)
 
