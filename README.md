@@ -6,7 +6,7 @@ Our product would include the entire mechanism of detection of congestion and in
 Each traffic crossing in a city would fall on a grid, if for example we are constantly keeping a  5x5 grid under surveillance then 9 images would come from these crossings at regular intervals of time.These 9 images are fed into a system which uses **state of the art computer vision to determine the level of congestion** in these crossings by various parameters like count of heavy vehicles. Now if for example we get crossing denoted by (1,1) as congested then the corresponding red light duration in the neighboring junctions increases and this inturn reduces the intake of vehicles in the congested junction and allows the vehicles in the congested junction some time to disperse.
 
 
-   ![](readimage.PNG)
+   ![](read.PNG)
 
 ## UI 
 1. Since we are considering static images and not the CCTV footages, so the images get changed after every 1min.
