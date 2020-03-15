@@ -10,8 +10,8 @@ Each traffic crossing in a city would fall on a grid, if for example we are cons
    ![](read.PNG)
 
 ## UI 
-1. Since we are considering static images and not the CCTV footages, so the images get changed after every 1min.
-2. The change depicts te present crowding in the particular junction.
+1. Since we are considering static images and not the CCTV footages, so the images get changed after every 5mins.
+2. The change depicts the present crowding in the particular junction.
 3. To get the location,we use Here Maps API.
 
 ### LOGIN PAGE:
