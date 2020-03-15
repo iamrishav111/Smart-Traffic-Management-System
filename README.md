@@ -14,7 +14,10 @@ Each traffic crossing in a city would fall on a grid, if for example we are cons
 3. To get the location,we use Here Maps API.
 
 LOGIN PAGE:
+
+
    ![](login.PNG)
+   
 AT TIMEFRAME 0 SECS:
    ![](time0.PNG)
 AT TIMEFRAME 5 SECS:
